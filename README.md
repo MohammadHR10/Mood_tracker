@@ -17,10 +17,6 @@ Mood Tracker is a Python-based application that analyzes the sentiment of a give
    cd Mood_tracker
 
 2. Create a virtual environment and activate it:
-'''sh
-python3 -m venv venv
-source venv/bin/activate
-
-3. Install the required dependencies:
-'''sh
-pip install -r requirements.txt
+ ```sh
+   python3 -m venv venv
+   source venv/bin/activate
